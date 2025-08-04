@@ -38,5 +38,5 @@ The target variable is:
 
 The best-performing model was [Model Name] with an accuracy of **XX%**. Glucose and BMI were among the top predictors of diabetes.
 
-## 📁 Folder Structure
+
 
